@@ -1,0 +1,50 @@
+Date: 9/1/2023
+Time: 0:9
+Phone Number: +905306415054
+Message: Otomatik mesaj deneme
+--------------------
+Date: 9/1/2023
+Time: 0:16
+Phone Number: +905075068632
+Message: AI mail taslağını hazırlamamız lazım
+--------------------
+Date: 9/1/2023
+Time: 0:22
+Phone Number: +905056408112
+Message: Abla Eve Gel
+--------------------
+Date: 9/1/2023
+Time: 15:26
+Phone Number: +905056408112
+Message: Filtre
+--------------------
+Date: 12/1/2023
+Time: 21:34
+Phone Number: +905456018937
+Message: Günaydın
+--------------------
+Date: 12/1/2023
+Time: 21:35
+Phone Number: +905456018937,+905075068632
+Message: Hello World
+--------------------
+Date: 12/1/2023
+Time: 21:36
+Phone Number: +905456018937
+Message: Hello World
+--------------------
+Date: 17/1/2023
+Time: 14:4
+Phone Number: +905050301774
+Message: Hello World
+--------------------
+Date: 1/2/2023
+Time: 20:4
+Phone Number: +05531678482
+Message: as
+--------------------
+Date: 1/2/2023
+Time: 20:5
+Phone Number: +05531678482
+Message: as
+--------------------
