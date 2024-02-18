@@ -1,0 +1,10 @@
+INSERT INTO FORM VALUES( ’War And Peace’,’It is an amazing book’);
+INSERT INTO FORM VALUES(’Hamlet’,’Amazing Book’);
+INSERT INTO FORM VALUES(’Crime And Punishment’,’Best book ever’);
+INSERT INTO FORM VALUES(‘Oliver Twist’,’Nice book’);
+INSERT INTO FORM VALUES(’Fat And Thin’,’Very good book’);
+INSERT INTO FORM VALUES(’Sanctuary’,’Interesting book’);
+INSERT INTO FORM VALUES(’The Jungle Book’,’I Didnt like it’);
+INSERT INTO FORM VALUES(‘İnce Memed’,’Very long and bad book’);
+INSERT INTO FORM VALUES(‘Martin Eden’,’The greatest book of all time’);
+INSERT INTO FORM VALUES(‘Da Vinci Code’,’Very complicated book’);

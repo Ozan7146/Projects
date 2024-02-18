@@ -1,0 +1,74 @@
+{
+    "foods":[
+      {
+        "id": 1,
+        "title": "Hamburger",
+        "url": "https://images.deliveryhero.io/image/fd-tr/LH/t76e-hero.jpg",
+        "price":101
+      },
+      {
+        "id": 2,
+        "title": "Fries",
+        "url": "https://www.recipetineats.com/wp-content/uploads/2022/09/Crispy-Fries_8.jpg?w=500&h=500&crop=1",
+        "price":102
+      },
+      {
+        "id": 3,
+        "title": "Doner",
+        "url": "https://www.karaca.com/blog/wp-content/uploads/2023/02/tavuk-donerr.webp",
+        "price":103
+      },
+      {
+        "id": 4,
+        "title": "Salad",
+        "url": "https://d17wu0fn6x6rgz.cloudfront.net/img/w/tarif/ogt/beyaz-peynirli-akdeniz-salatasi.webp",
+        "price":104 
+      },
+      {
+        "id": 5,
+        "title": "Pizza",
+        "url": "https://cdn.yemek.com/mncrop/620/388/uploads/2017/01/ev-usulu-pizza-yeni.jpg",
+        "price":105
+      }
+  
+    ],
+    
+    
+    "drinks":[
+      {
+        "id": 11,
+        "title": "Coke",
+        "url": "https://media.istockphoto.com/id/487787108/tr/foto%C4%9Fraf/can-of-coca-cola-on-ice.jpg?s=612x612&w=is&k=20&c=emH3Uqfm-Z_NEZS_u-2iYcqAg3tI09rcohVwtJWq97g=",
+        "price":22
+      },
+      {
+        "id": 12,
+        "title": "Sprite",
+        "url": "https://m.media-amazon.com/images/I/61slsTqQruL.jpg",
+        "price":24
+      },
+      {
+        "id": 13,
+        "title": "Fanta",
+        "url": "https://docsd.ceptesok.com/product/1000x1000/c4997_Portakal_330_Ml.png",
+        "price":26
+      },
+      {
+        "id": 14,
+        "title": "Orange Juice",
+        "url": "https://cdn.yemek.com/mncrop/940/625/uploads/2019/06/taze-sikma-portakal-suyu.jpg",
+        "price":28
+        
+      },
+      {
+        "id": 15,
+        "title": "Ayran",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Fresh_ayran.jpg",
+        "price":30
+      }
+    ]
+    }
+    
+    
+    
+    
